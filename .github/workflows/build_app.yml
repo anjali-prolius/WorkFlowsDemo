@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - 'release_*'
-      - 'main'
+      - 'new'
 
   workflow_dispatch:
     inputs:
