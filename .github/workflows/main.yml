@@ -4,8 +4,7 @@ name: Android Build and Deployment Pipeline
 on:
   push:
     branches:
-      - 'release_*'
-      - 'new'
+       - 'branchb'
 
 #   workflow_dispatch:
 #     inputs:
